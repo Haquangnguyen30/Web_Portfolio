@@ -72,4 +72,10 @@
     line-clamp: 1;
     overflow: hidden;
   }
+
+  & .projects__cards_skills {
+    display: flex;
+    gap: 10px;
+    border-radius: 4px;
+  }
 }
